@@ -79,8 +79,8 @@ section{
     gap:2rem;
 }
 .home-img img{
-    width:35vw;
-    height:41.5vw;
+    width:30vw;
+    height:35vw;
     border-radius:5%;
     /* border:0.5rem solid var(--main-color); */
     animation:floatImage 4s ease-in-out infinite;
@@ -167,7 +167,8 @@ span{
     background:var(--second-bg-color);
 }
 .about-img img{
-    width:35vw;
+    width:30vw;
+    height:35vw;
 }
 .heading{
     text-align:center;
